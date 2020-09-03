@@ -1,6 +1,6 @@
 # trying-tailwind
 Trying tailwind :O
 
-## Instalation
+## Installation
 1. `npm install`
 2. `npm run build-css`
